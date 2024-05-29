@@ -1,6 +1,6 @@
 import Spricing from "./components/Spricing";
 import About from "./components/About";
-import GreenBtn from "./components/GreenBtn";
+
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
